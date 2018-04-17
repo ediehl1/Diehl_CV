@@ -16,7 +16,6 @@ img { border-radius: 8px}
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Trebuchet MS", Helvetica, sans-serif}
 </style>
 
-
  <!--change the background color to pale yellow : for a list of more colors go here: https://www.w3schools.com/w3css/w3css_colors.asp-->
  
 <body class="w3-pale-blue">
